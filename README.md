@@ -1,2 +1,2 @@
 # delta
-temporary folder
+temporary folder.
